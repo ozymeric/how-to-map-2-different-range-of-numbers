@@ -89,3 +89,6 @@ As we see on the code above;
 as the perCentIndex goes up, by the same amount of steps and time,
 the blur effect goes down; and the opacity of the percentage text div goes down.
 */
+
+// can check this stackoverflow page for more details:
+// https://stackoverflow.com/questions/10756313/javascript-jquery-map-a-range-of-numbers-to-another-range-of-numbers
